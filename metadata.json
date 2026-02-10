@@ -1,0 +1,9 @@
+
+{
+  "name": "Moroccan Express Travel Events",
+  "description": "High-end travel and MICE agency based in Casablanca. Custom experiences, VIP logistics, and AI-powered journey planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
